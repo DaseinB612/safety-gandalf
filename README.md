@@ -2,6 +2,8 @@
 
 **An AI research navigator that points you to the exact argument, in the exact paper, that answers your question.**
 
+🔗 **[Live Demo](https://gandalf-safe-path.base44.app)**
+
 ---
 
 ## The Problem
